@@ -1,0 +1,17 @@
+.x
+{
+    margin-top: 10%;
+}
+.btn
+{
+    border: 2px solid black;
+}
+  .btn:hover {
+   
+    box-shadow:
+     -7px -7px 20px 3px rgba(42, 29, 29, 0.6),
+     -4px -4px 5px 3px rgba(69, 37, 37, 0.6),
+     7px 7px 20px 3px #0002,
+     4px 4px 5px 3px #0001;
+    transition: all 0.3s ease;
+  }
